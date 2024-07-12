@@ -1,15 +1,15 @@
 import "../App.css";
-import About from "./Components/About.jsx";
-import Footer from "./Components/Footer.jsx";
-import Testimonials from "./Components/Testimonials.jsx";
+import About from "./About.jsx";
+import Footer from "./Footer.jsx";
+import Testimonials from "./Testimonials.jsx";
 
 
 function Aboutpage() {
     return (
         <div className="App">
           <About />
-        <Testimonials/>
-          <Footer />
+        <Footer />
+          <Testimonials />
         </div>
       );
 };
