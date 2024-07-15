@@ -2,7 +2,7 @@ import React from "react";
 import AboutBackground from "../Assets/about-banner-image.png";
 import { BsFillPlayCircleFill } from "react-icons/bs";
 import Navbar from "./Navbar";
-import aboutimage from "../Assets/about-image.png"
+import aboutimage from "../Assets/about-image.jpg"
 
 
 
